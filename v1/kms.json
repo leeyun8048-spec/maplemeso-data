@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "region": "KMS",
+  "updatedAt": "2026-10-03",
+  "bosses": [
+    {"name": "자쿰", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4040000}},
+    {"name": "매그너스", "category": "weekly", "difficulties": ["hard"], "crystalPrices": {"hard": 4280000}},
+    {"name": "파풀라투스", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 6550000}},
+    {"name": "피에르", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4080000}},
+    {"name": "반반", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4070000}},
+    {"name": "블러드 퀸", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4070000}},
+    {"name": "벨룸", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4640000}},
+    {"name": "스우", "category": "weekly", "difficulties": ["normal", "hard", "extreme"], "crystalPrices": {"normal": 8350000, "hard": 48900000, "extreme": 545000000}},
+    {"name": "데미안", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 8750000, "hard": 46400000}},
+    {"name": "가엔슬", "category": "weekly", "difficulties": ["normal", "chaos"], "crystalPrices": {"normal": 12700000, "chaos": 71300000}},
+    {"name": "루시드", "category": "weekly", "difficulties": ["easy", "normal", "hard"], "crystalPrices": {"easy": 14900000, "normal": 17800000, "hard": 59700000}},
+    {"name": "윌", "category": "weekly", "difficulties": ["easy", "normal", "hard"], "crystalPrices": {"easy": 16100000, "normal": 20500000, "hard": 73200000}},
+    {"name": "더스크", "category": "weekly", "difficulties": ["normal", "chaos"], "crystalPrices": {"normal": 22000000, "chaos": 66300000}},
+    {"name": "진힐라", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 67600000, "hard": 100000000}},
+    {"name": "듄켈", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 23700000, "hard": 89600000}},
+    {"name": "세렌", "category": "weekly", "difficulties": ["normal", "hard", "extreme"], "crystalPrices": {"normal": 167000000, "hard": 302000000, "extreme": 1840000000}},
+    {"name": "칼로스", "category": "weekly", "difficulties": ["easy", "normal", "chaos", "extreme"], "crystalPrices": {"easy": 238000000, "normal": 479000000, "chaos": 1230000000, "extreme": 4104000000}},
+    {"name": "대적자", "category": "weekly", "difficulties": ["easy", "normal", "hard", "extreme"], "crystalPrices": {"easy": 261000000, "normal": 532000000, "hard": 1390000000, "extreme": 4712000000}},
+    {"name": "카링", "category": "weekly", "difficulties": ["easy", "normal", "hard", "extreme"], "crystalPrices": {"easy": 320000000, "normal": 576000000, "hard": 1560000000, "extreme": 5387000000}},
+    {"name": "벨로나", "category": "weekly", "difficulties": ["easy", "normal", "hard"], "crystalPrices": {"easy": 396000000, "normal": 824000000, "hard": 2950000000}},
+    {"name": "림보", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 995000000, "hard": 2385000000}},
+    {"name": "발드릭스", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 1320000000, "hard": 3078000000}},
+    {"name": "흉성", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 593000000, "hard": 2678000000}},
+    {"name": "유피테르", "category": "weekly", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 1560000000, "hard": 4845000000}},
+    {"name": "검은마법사", "category": "monthly", "difficulties": ["hard", "extreme"], "crystalPrices": {"hard": 465000000, "extreme": 5680000000}},
+    {"name": "메이린", "category": "season", "difficulties": ["normal", "hard"], "crystalPrices": {"normal": 300000000, "hard": 600000000}, "rewardLabel": "메소 주머니", "retired": true}
+  ]
+}
