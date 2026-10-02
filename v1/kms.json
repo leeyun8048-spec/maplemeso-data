@@ -3,7 +3,7 @@
   "region": "KMS",
   "updatedAt": "2026-10-03",
   "bosses": [
-    {"name": "자쿰", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 3040000}},
+    {"name": "자쿰", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4040000}},
     {"name": "매그너스", "category": "weekly", "difficulties": ["hard"], "crystalPrices": {"hard": 4280000}},
     {"name": "파풀라투스", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 6550000}},
     {"name": "피에르", "category": "weekly", "difficulties": ["chaos"], "crystalPrices": {"chaos": 4080000}},
